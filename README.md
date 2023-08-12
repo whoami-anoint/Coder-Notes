@@ -10,3 +10,5 @@
 - <a href ="SQL Basics Handwritten.pdf">SQL Basic Handwritten Notes</a>
 - <a href ="Data Structure Notes.pdf">Data Strucure Handwritten Notes</a>
 - <a href ="100 JavaScript Interview QnA.pdf"> 100 JavaScript Interview Questions Notes</a>
+- <a href ="bda-unit-1-hand-written-notes.pdf">Big Data Handwritten Notes</a>
+
